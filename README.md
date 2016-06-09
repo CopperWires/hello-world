@@ -1,2 +1,3 @@
 # hello-world
-Hello World Guide to github
+
+Hi CopperWires here.  This is a whole new world to me. 
